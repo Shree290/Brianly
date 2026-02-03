@@ -43,5 +43,18 @@ This feature keeps profiles **simple, safe, and focused on learning and knowledg
 ---
 
 
+# Clone the repository
+git clone https://github.com/Shree290/Brianly.git
+
+# Navigate into the project
+cd Brianly
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+
 
 
