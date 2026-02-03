@@ -1,0 +1,2 @@
+
+export const JWT_PASS="123123"
